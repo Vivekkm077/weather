@@ -39,17 +39,20 @@ Using yarn:
 yarn dev
 Open http://localhost:5173 to view it in the browser.
 
-Project Structure
+## Project Structure
+
+```plaintext
 weather-app/
-├── public/             # Static public assets
-├── src/                # Source files
-│   ├── components/     # React components
-│   ├── App.jsx         # Main App component
-│   ├── main.jsx        # Entry point for React
-├── .env                # Environment variables
-├── vite.config.js      # Vite configuration
-├── package.json        # Project configuration and dependencies
-└── README.md           # Project documentation
+├── public/          # Static public assets
+├── src/             # Source files
+│   ├── components/  # React components
+│   ├── App.jsx      # Main App component
+│   ├── main.jsx     # Entry point for React
+├── .env             # Environment variables
+├── vite.config.js   # Vite configuration
+├── package.json     # Project configuration and dependencies
+└── README.md        # Project documentation
+
 Usage
 Enter the name of a city in the search box.
 Click the "Search" button.
