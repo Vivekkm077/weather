@@ -15,7 +15,7 @@ Node.js (>= 14.x)
 npm (>= 6.x) or yarn (>= 1.x)
 Getting Started
 1. Clone the Repository
-git clone https://github.com/HarryOhm33/Weather-App.git
+git clone https://github.com/Vivekkm077/weather.git
 cd Weather-App
 2. Install Dependencies
 Using npm:
